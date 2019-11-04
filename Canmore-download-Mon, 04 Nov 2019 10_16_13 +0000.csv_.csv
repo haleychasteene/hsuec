@@ -1,0 +1,16 @@
+Unless stated otherwise the Canmore dataset contains Ordnance Survey derived data which is delivered through Canmore website under the terms of the OPEN GOVERNMENT End User Licence.
+http://www.ordnancesurvey.co.uk/docs/licences/os-opendata-licence.pdf
+"Canmore-download-Mon, 04 Nov 2019 10:16:13 +0000.csv"
+
+
+CANMORE ID,SITE NUMBER,SITE NAME,SITE TYPE,SITE EASTING,SITE NORTHING,COUNCIL,COUNTY,PARISH,NGR,URL
+"260856","NT67NE 8057","California: Broxmouth, Firth Of Forth","Brig (19th Century)","369000","678000","EAST LOTHIAN","NOT APPLICABLE","MARITIME - EAST LOTHIAN","NT 69 78","http://canmore.org.uk/site/260856",
+"284474","NR60NE 8029","California: Dunaverty, Firth Of Clyde","Barque (19th Century)","168000","607000","ARGYLL AND BUTE","NOT APPLICABLE","MARITIME - ARGYLL AND BUTE","NR 68 07","http://canmore.org.uk/site/284474",
+"90577","NX55NW 34","California","Farmstead (Period Unassigned)","251260","556010","DUMFRIES AND GALLOWAY","KIRKCUDBRIGHTSHIRE","KIRKMABRECK","NX 5126 5601","http://canmore.org.uk/site/90577",
+"122956","NS97NW 70","California","Village (Period Unassigned)","290730","676130","FALKIRK","STIRLINGSHIRE","GRANGEMOUTH","NS 9073 7613","http://canmore.org.uk/site/122956",
+"123778","NT27SE 1942","Edinburgh, 50 Buccleuch Street","Tenement (19th Century), University (20th Century)","326108.4844","672799.8452","EDINBURGH, CITY OF","MIDLOTHIAN","EDINBURGH (EDINBURGH, CITY OF)","NT 2610 7279","http://canmore.org.uk/site/123778",
+"224241","NO75NW 438","Montrose, 10, 12 River Street","House (19th Century)","371517","757202","ANGUS","ANGUS","MONTROSE","NO 71517 57202","http://canmore.org.uk/site/224241",
+"283510","NO21NE 89","California Fishing Lodge, Firth Of Tay","Fishing Lodge (19-20th Century)","325260","719360","FIFE","FIFE","ABDIE","NO 2526 1936","http://canmore.org.uk/site/283510",
+"285630","NO21NW 1633","Newburgh, California Lodge","Anti Tank Blocks(S) (21st Century)","324905","719186","FIFE","FIFE","ABDIE","NO 24905 19186","http://canmore.org.uk/site/285630",
+"286757","NON-UK 71","United States Of America, California, San Francisco, General","Term Pending","-122.40611166667","37.785555","NOT APPLICABLE","NOT APPLICABLE","NOT APPLICABLE","","http://canmore.org.uk/site/286757",
+"303370","NO21NW 1634","Newburgh, California Lodge","Anti Tank Ditch (20th Century), Road Block (20th Century)","324999","718954","FIFE","FIFE","NEWBURGH","NO 24999 18954","http://canmore.org.uk/site/303370",
