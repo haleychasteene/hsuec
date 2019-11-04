@@ -1,8 +1,5 @@
 Unless stated otherwise the Canmore dataset contains Ordnance Survey derived data which is delivered through Canmore website under the terms of the OPEN GOVERNMENT End User Licence.
 http://www.ordnancesurvey.co.uk/docs/licences/os-opendata-licence.pdf
-
-
-
 CANMORE ID,SITE NUMBER,SITE NAME,SITE TYPE,SITE EASTING,SITE NORTHING,COUNCIL,COUNTY,PARISH,NGR,URL
 "52279","NT27SE 26","Edinburgh, General","Burgh (Medieval), Town (Period Unassigned)","325500","673500","EDINBURGH, CITY OF","MIDLOTHIAN","EDINBURGH (EDINBURGH, CITY OF)","NT 2550 7350","http://canmore.org.uk/site/52279",
 "21664","NM22SE 50","Iona, Iona Abbey","Abbey (Medieval), Cathedral (Period Unassigned)","128683","724515","ARGYLL AND BUTE","ARGYLL","KILFINICHEN AND KILVICKEON","NM 28683 24515","http://canmore.org.uk/site/21664",
